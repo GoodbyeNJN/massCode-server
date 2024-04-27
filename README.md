@@ -1,6 +1,6 @@
 <h1 align="center">massCode Server</h1>
 
-This is a standalone server for [assistant-vscode](https://github.com/massCodeIO/assistant-vscode), eliminating the need to run the [massCode](https://github.com/massCodeIO/massCode) application for deployment in a non GUI environment.
+This is a standalone server for [assistant-vscode](https://github.com/GoodbyeNJN/assistant-vscode), eliminating the need to run the [massCode](https://github.com/massCodeIO/massCode) application for deployment in a non GUI environment.
 
 ## Features
 
