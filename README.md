@@ -38,7 +38,7 @@ docker run -d \
     -e DB=/app/db/db.json \
     -p 3033:3033 \
     -v /path/to/massCode/directory:/app/db \
-    masscode-server
+    goodbyenjn/masscode-server
 ```
 
 ## API
